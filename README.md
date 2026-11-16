@@ -38,9 +38,13 @@ Seja bem-vindo(a)! 🚀
 
 🎓 Concluir minha graduação em Engenharia de Software
 
-☕ Evoluir meus conhecimentos em Java
+🔐 Aprofundar meus conhecimentos em Cibersegurança
 
-💻 Aprender desenvolvimento Backend
+🌐 Aprender mais sobre infraestrutura e segurança de redes
+
+🐧 Desenvolver conhecimentos em Linux
+
+🐍 Aprimorar Python aplicado à Cibersegurança
 
 🚀 Conseguir minha primeira oportunidade de estágio
 

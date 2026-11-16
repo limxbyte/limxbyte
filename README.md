@@ -20,12 +20,12 @@
 
 Olá! Meu nome é **Paola** e sou estudante de **Engenharia de Software**.
 
-Atualmente estou desenvolvendo minhas habilidades em programação,
-com foco nos estudos de **Java e desenvolvimento Backend**.
+🎓 Software Engineering Student  
+🔐 Focused on Cybersecurity  
+🌐 Learning Computer Networking & Information Security  
+🐍 Exploring Python and Programming Fundamentals  
 
-Gosto de aprender na prática através de projetos e estou sempre
-buscando evoluir meus conhecimentos em tecnologia.
-
+Always learning, building and improving.
 ---
 
 ## 🎯 Goals

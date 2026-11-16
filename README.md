@@ -18,15 +18,23 @@
 
 ## 👩🏻‍💻 About Me
 
-Olá! Meu nome é **Paola** e sou estudante de **Engenharia de Software**.
+Olá! Meu nome é **Paola** e sou estudante de **Engenharia de Software** e atualmente estou direcionando meus estudos para a área de Cibersegurança.
 
-🎓 Software Engineering Student  
-🔐 Focused on Cybersecurity  
-🌐 Learning Computer Networking & Information Security  
-🐍 Exploring Python and Programming Fundamentals  
+Tenho interesse em Segurança da Informação, Redes de Computadores e tecnologias voltadas à proteção de sistemas e dados.
 
-Always learning, building and improving.
----
+Atualmente, estou aprofundando meus conhecimentos em:
+
+🔐 Cibersegurança
+
+🌐 Redes de Computadores
+
+🐍 Python
+
+💻 Fundamentos da computação
+
+Este GitHub reúne meus projetos, atividades acadêmicas e minha evolução na área de tecnologia.
+
+Seja bem-vindo(a)! 🚀
 
 ## 🎯 Goals
 
